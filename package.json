@@ -1,0 +1,19 @@
+{
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "description": "hey i found this image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckgunn/my-first-repo.git"
+  },
+  "author": "chuckgunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuckgunn/my-first-repo/issues"
+  },
+  "homepage": "https://github.com/chuckgunn/my-first-repo#readme"
+}
